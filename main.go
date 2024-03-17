@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Welcome to the TODO App in Golang")
+	fmt.Println("Welcome to the ToDo App in Golang")
   var indexInput int
   var taskInput, newTaskInput string 
 
